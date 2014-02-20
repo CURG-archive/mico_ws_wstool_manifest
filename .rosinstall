@@ -1,0 +1,5 @@
+- git: {local-name: mico_simplified, uri: 'git@github.com:CURG/mico_simplified.git'}
+- git: {local-name: mico_launch, uri: 'git@github.com:CURG/mico_launch.git'}
+- git: {local-name: mico_moveit, uri: 'git@github.com:CURG/mico_moveit.git'}
+- git: {local-name: mico_simplified_gazebo, uri: 'git@github.com:CURG/mico_simplified_gazebo.git'}
+- git: {local-name: mico_simplified_control, uri: 'git@github.com:CURG/mico_simplified_control.git'}
